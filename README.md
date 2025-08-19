@@ -47,7 +47,7 @@ The app is inspired by the medical **FAST** test used to detect stroke symptoms:
 ### Installation
 
 ```bash
-git clone https://github.com/simonisavani/Preliminary-Minor-Stroke-Detection-App.git
+git clone [https://github.com/SHRUTIVASA/Preliminary-Minor-Stroke-Detection-App.git]
 cd Preliminary-Minor-Stroke-Detection-App
 ```
 
