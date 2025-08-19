@@ -8,8 +8,8 @@ A mobile application for the early, self-assistive detection of **minor strokes*
 
 This app and its underlying research have been featured in the following international conferences:
 
-* **StrokeAlert: Early Detection of Minor Strokes**, *2024 4th International Conference on Advancement in Electronics & Communication Engineering (AECE)*
-* **A Comprehensive Review of Multimodal Techniques for Early Detection of Minor Strokes**, *2nd International Conference on Technologies for Energy, Agriculture, and Healthcare*
+* **StrokeAlert: Early Detection of Minor Strokes**, *2024 4th International Conference on Advancement in Electronics & Communication Engineering (AECE)*, *(IEEE Conference)*
+* **A Comprehensive Review of Multimodal Techniques for Early Detection of Minor Strokes**, *2nd International Conference on Technologies for Energy, Agriculture, and Healthcare*, *(Taylor and Francis Proceedings)*
 
 ---
 
