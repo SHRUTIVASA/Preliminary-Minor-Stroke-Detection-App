@@ -57,21 +57,21 @@ cd Preliminary-Minor-Stroke-Detection-App
 
 ## App Screens 
 
-* [ ] Facial Test Screen
+- Facial Test Screen
 
 ![image](https://github.com/user-attachments/assets/e581377f-f73f-461c-92e7-4befc391cfc5)
 ![image](https://github.com/user-attachments/assets/7c470e12-3a5f-404b-a4a7-0cf510a574f2)
 
-* [ ] Arm Coordination Screen
+- Arm Coordination Screen
 
 ![image](https://github.com/user-attachments/assets/d5801b9f-20a5-4107-b2ad-02f97bc25f60)
 
-* [ ] Speech Input Screen
+- Speech Input Screen
 
 ![image](https://github.com/user-attachments/assets/a969a60a-71d0-42b7-9d5e-9dea64a6ebbb)
 ![image](https://github.com/user-attachments/assets/61791cf7-da4d-4338-ab89-c9caab9142f1)
 
-* [ ] Final Result and Advice
+- Final Result and Advice
 
 ![image](https://github.com/user-attachments/assets/f259dc32-ca67-4086-91c2-2aac0593509a)
 ---
