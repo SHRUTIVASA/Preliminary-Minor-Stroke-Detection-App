@@ -10,6 +10,7 @@ This app and its underlying research have been featured in the following interna
 
 * **StrokeAlert: Early Detection of Minor Strokes**, *2024 4th International Conference on Advancement in Electronics & Communication Engineering (AECE)*
 * **A Comprehensive Review of Multimodal Techniques for Early Detection of Minor Strokes**, *2nd International Conference on Technologies for Energy, Agriculture, and Healthcare*
+* **TeleHealth: Leveraging Machine Learning and Deep Learning Techniques for Preliminary Minor Stroke Detection**, *Under Review*
 
 ---
 
@@ -47,7 +48,7 @@ The app is inspired by the medical **FAST** test used to detect stroke symptoms:
 ### Installation
 
 ```bash
-git clone https://github.com/simonisavani/Preliminary-Minor-Stroke-Detection-App.git
+git clone https://github.com/SHRUTIVASA/Preliminary-Minor-Stroke-Detection-App.git
 cd Preliminary-Minor-Stroke-Detection-App
 ```
 
